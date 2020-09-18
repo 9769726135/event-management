@@ -1,1 +1,1 @@
-# event-management
+# event-management Install phpmyadmin to run this project
